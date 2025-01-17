@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Munt</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 17 Jan 2025 11:08:57 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/RealForseth/muntupdate/releases/download/prod/Munt.dmg" length="4719737" type="application/octet-stream" sparkle:edSignature="+21OGW2QMZA2g+IJE0BNZop4ol1LuMKDUOcYqkX5VDDZSTiy02TeDDMI/RSi3nOPWJJ/SXAMIq4is4sN/UhRAA=="/>
+        </item>
+    </channel>
+</rss>
