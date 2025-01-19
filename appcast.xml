@@ -3,12 +3,12 @@
     <channel>
         <title>Munt</title>
         <item>
-            <title>1.1.6</title>
-            <pubDate>Sun, 19 Jan 2025 20:48:14 +0100</pubDate>
-            <sparkle:version>1.1.6</sparkle:version>
-            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+            <title>1.1.7</title>
+            <pubDate>Sun, 19 Jan 2025 21:20:32 +0100</pubDate>
+            <sparkle:version>1.1.7</sparkle:version>
+            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/RealForseth/muntupdate/releases/download/prod/Munt.dmg" length="4105777" type="application/octet-stream" sparkle:edSignature="nwVw8SOBd1WWo9WII/3aRNLF6FtqR9OQPybycfvADKTbx5vQ+tXKxeauF3NfE5IUIfjCsvvGXLk9c/czgY6VDQ=="/>
+            <enclosure url="https://github.com/RealForseth/muntupdate/releases/download/prod/Munt.dmg" length="4107981" type="application/octet-stream" sparkle:edSignature="28vOyaerh7UhCfFCJWpjKPONfRmzMrJYiz3DQB/hLFd/36ooETvYh8Va16k6gW5G3DYJiSc1nV1VAPYMHjTcBw=="/>
         </item>
     </channel>
 </rss>
